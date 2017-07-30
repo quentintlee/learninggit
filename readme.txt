@@ -1,2 +1,2 @@
 git is a awesome software
-git is also free
+git is also free for geeks
